@@ -1,0 +1,17 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "DSA woo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "David Daniel",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^2.2.5"
+  }
+}
